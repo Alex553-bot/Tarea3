@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Calculadora
+comment1.params=a\ b\ c
+comment1.target=java.lang.String\ ecuacionSegundoGrado(double,\ double,\ double)
+comment2.params=p1\ p2
+comment2.target=java.lang.String\ encontrarRecta(Punto,\ Punto)
+comment3.params=hipotenusa\ cateto1
+comment3.target=java.lang.String\ encontrarCateto(double,\ double)
+numComments=4

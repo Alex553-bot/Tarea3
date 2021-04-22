@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Matematico
+comment1.params=
+comment1.target=Matematico()
+comment2.params=a\ b\ c
+comment2.target=java.lang.String\ resolverEcuacion(double,\ double,\ double)
+comment3.params=p1\ p2
+comment3.target=java.lang.String\ hallarRecta(Punto,\ Punto)
+comment4.params=hipotenusa\ cateto
+comment4.target=java.lang.String\ hallarCateto(double,\ double)
+comment5.params=num1\ num2\ num3
+comment5.target=java.lang.String\ ordenarNumeros(double,\ double,\ double)
+comment6.params=base\ altura
+comment6.target=double\ calcularArea(double,\ double)
+comment7.params=punto1\ punto2
+comment7.target=double\ calcularDistancia(Punto,\ Punto)
+comment8.params=punto
+comment8.target=java.lang.String\ determinarCuadrante(Punto)
+numComments=9
