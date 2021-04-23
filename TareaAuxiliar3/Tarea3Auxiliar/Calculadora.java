@@ -49,7 +49,7 @@ public class Calculadora{
         // un cateto no puede ser mayor a la hipotenusa
 
         if(hipotenusa <= cateto1){
-            cateto2 = "El cateto debe ser mayor a la hipotenusa";
+            cateto2 = "El cateto debe ser menor a la hipotenusa";
         }else{
             resultado = Math.sqrt(Math.pow(hipotenusa, 2) - Math.pow(cateto1, 2));
             cateto2 = "El cateto faltante es: " + resultado;
